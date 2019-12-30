@@ -1,0 +1,17 @@
+
+.header-con {
+  background-color: teal;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.header-con__link {
+  height: 50px;
+  width: 50px;
+}
+
+.header-con__img {
+  width: 100%;
+  height: auto;
+  border-radius: 25px;
+}
