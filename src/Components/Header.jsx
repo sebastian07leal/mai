@@ -12,9 +12,9 @@ const Header = () => {
           <img src={img1} alt="logo" className="header-con__img"/>
         </Link>
         <ul id="nav-mobile" className="right hide-on-med-and-down">
-          <li><Link to="#">Contáctanos</Link></li>
-          <li><Link to="#">Miranos en vivo</Link></li>
-          <li><Link to="#">Más sobre nosotros</Link></li>
+          <li><Link to="#">Iglesia</Link></li>
+          <li><Link to="#">¿Eres un nuevo?</Link></li>
+          <li><Link to="#">Contacto</Link></li>
         </ul>
       </div>
     </nav>
